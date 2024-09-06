@@ -39,6 +39,7 @@ Sales Analysis
 This analysis aims to evaluate the sales trend of the products sold in the stores, hence the need for analysis to implement strategic business decisions to improve business sales.
 Customer Analysis
 Customer analysis aims to uncover different purchase trends, customer segmentation, and profitability. This will assist in place marketing and ensure the requested products are available for the customer's needs.
+
 Approach Used.
 1. Data wrangling
 The initial stage of inspection involved analysing the data to ensure that all missing and Null values were detected, and data replacement methods were used to replace the missing or null values.
