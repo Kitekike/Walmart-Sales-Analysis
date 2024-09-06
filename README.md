@@ -125,3 +125,4 @@ $ total = VAT + COGS\= 16.0265 + 320.53 = 336.5565$
 
 CODE
 The answers to the questions are  in file 
+https://github.com/Kitekike/Walmart-Sales-Analysis/blob/main/walmartsql.sql
