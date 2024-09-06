@@ -4,7 +4,7 @@ Walmart Sales Data Analysis
 The project aims to evaluate Walmart's sales data from various branches across the United States to understand each branch's performance, the products sold, and customer behaviors. The study aims to optimize and improve the organization's decision-making strategies. The database's source is   https://www.kaggle.com/code/amrabdelatyfathalla/walmart-time-series-analysis
 
 '' In this recruiting competition, jobseekers are provided historical sales data for 45 Walmart stores in different regions. Each store contains many departments, and participants must project the sales for each department in each store. The dataset includes selected holiday markdown events to add to the challenge. These markdowns are known to affect sales, but it is challenging to predict which departments are affected and the extent of the impact'' **https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting**
-W
+
 Purpose of the Project
 
 The main aim is to understand Walmart's sales performance by evaluating different factors of the various branches.
@@ -29,6 +29,33 @@ Cogs	Cost of goods sold	DECIMAL (10,2)
 Gross_margin _percentage	Gross margin percentage	FLOAT (11,9)
 Gross income	Gross income	DECIMAL (10,2)
 rating	Rating	FLOAT (2,1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		
 
 The Analysis
