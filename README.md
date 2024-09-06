@@ -1,4 +1,4 @@
-Walmart Sales Data Analysis**
+Walmart Sales Data Analysis
 
 **About**
 The project aims to evaluate Walmart's sales data from various branches across the United States to understand each branch's performance, the products sold, and customer behaviors. The study aims to optimize and improve the organization's decision-making strategies. The database's source is   https://www.kaggle.com/code/amrabdelatyfathalla/walmart-time-series-analysis
